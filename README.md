@@ -1,2 +1,2 @@
 # datasciencecoursera
-DataScientistToolbox class project repositiory.
+DataScientistToolbox class project repositiory...
